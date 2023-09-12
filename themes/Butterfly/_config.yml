@@ -9,15 +9,15 @@ nav:
 
 # Menu 目錄
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   Home: / || fas fa-home
+   Archives: /archives/ || fas fa-archive
+   Tags: /tags/ || fas fa-tags
+   Categories: /categories/ || fas fa-folder-open
+   List||fas fa-list:
+     Music: /music/ || fas fa-music
+     Movie: /movies/ || fas fa-video
+   Link: /link/ || fas fa-link
+   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -165,19 +165,19 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+     - img: /img/wechat.jpg
+       link:
+       text: wechat
+     - img: /img/alipay.jpg
+       link:
+       text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
   enable: false
-  # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
-  # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
+   url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
+   For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
   url:
 
 # Related Articles
