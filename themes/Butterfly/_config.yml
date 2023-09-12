@@ -16,8 +16,8 @@ menu:
    List||fas fa-list:
      Music: /music/ || fas fa-music
      Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+   Link: /link/ || fas fa-link
+   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -165,12 +165,12 @@ post_copyright:
 reward:
   enable: false
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+     - img: /img/wechat.jpg
+       link:
+       text: wechat
+     - img: /img/alipay.jpg
+       link:
+       text: alipay
 
 # Post edit
 # Easily browse and edit blog source code online.
